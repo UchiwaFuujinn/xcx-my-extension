@@ -18,7 +18,7 @@ const entry = {
     get name () {
         return formatMessage({
             id: 'myExtension.entry.name',
-            default: ''My',
+            default: 'My Extension',
             description: 'name of the extension'
         });
     },

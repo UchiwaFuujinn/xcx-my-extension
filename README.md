@@ -1,4 +1,4 @@
-# 'My
+# My Extension
 An example extension for [Xcratch](https://xcratch.github.io/)
 
 This extension add extra-block "do it", that executes string in its input field as a sentence in Javascript and return the result.
@@ -6,7 +6,7 @@ This extension add extra-block "do it", that executes string in its input field 
 
 ## ✨ What You Can Do With This Extension
 
-Play [Example Project](https://xcratch.github.io/editor/#https://githubAccount.github.io/xcx-my-extension/projects/example.sb3) to look at what you can do with "'My" extension. 
+Play [Example Project](https://xcratch.github.io/editor/#https://githubAccount.github.io/xcx-my-extension/projects/example.sb3) to look at what you can do with "My Extension" extension. 
 <iframe src="https://xcratch.github.io/editor/player#https://githubAccount.github.io/xcx-my-extension/projects/example.sb3" width="540px" height="460px"></iframe>
 
 

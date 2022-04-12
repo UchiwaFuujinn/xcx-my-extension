@@ -45,7 +45,7 @@ class ExtensionBlocks {
     static get EXTENSION_NAME () {
         return formatMessage({
             id: 'myExtension.name',
-            default: ''My',
+            default: 'My Extension',
             description: 'name of the extension'
         });
     }
@@ -75,7 +75,7 @@ class ExtensionBlocks {
     }
 
     /**
-     * Construct a set of blocks for 'My.
+     * Construct a set of blocks for My Extension.
      * @param {Runtime} runtime - the Scratch 3.0 runtime.
      */
     constructor (runtime) {
